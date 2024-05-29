@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dev-aditya-lab/dev-aditya-lab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
