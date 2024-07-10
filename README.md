@@ -15,8 +15,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/aadi-portfolio](https://bit.ly/aadi-portfolio)
 
-[![](https://visitcount.itsvg.in/api?id=dev-aditya-lab&icon=6&color=0)](https://visitcount.itsvg.in)
-
+![](https://visitcount.itsvg.in/api?id=dev-aditya-lab&icon=6&color=0)
 ## 🌐 Connect with me:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/adityagupta261) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its._.aadi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/its-aadi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pixelperfect_01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pro_aditya96) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adiitechhub)
