@@ -36,7 +36,7 @@
 <a href="https://linkedin.com/in/aditya-gupta9608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta9608" height="30" width="40" /></a>
 <a href="https://instagram.com/_its._.aadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its._.aadi" height="30" width="40" /></a>
 <a href="https://www.behance.net/adityagupta261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adityagupta261" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devscriptorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devscriptorium" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aadiibhaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aadii Bhaiya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devadityalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devadityalab" height="30" width="40" /></a>
 </p>
 
