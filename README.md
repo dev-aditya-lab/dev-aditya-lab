@@ -9,14 +9,14 @@
 
 - 🌱 I’m currently learning **Backend, nodejs, etc**
 
-- 🔭 I’m currently learning **JAVA, Python, Spring BOOT**
-
+- 🔭 I’m currently learning **JAVA, Python, Fast API**
+ <!--
 - 👨‍💻 All of my projects are [available at](https://bit.ly/aadi-portfolio)
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/aadi-portfolio](https://bit.ly/aadi-portfolio)
 
 - 📝 I regularly write articles on [https://bit.ly/aadi-portfolio](https://bit.ly/aadi-portfolio)
-
+ -->
 - 💬 Ask me about **React.js, java script**
 
 - 📫 How to reach me **ad1123itya@gmail.com**
