@@ -73,7 +73,8 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aditya-lab&" alt="dev-aditya-lab" /></p>
 
-## 🏆 GitHub Trophies
+
+
 ![](https://github-profile-trophy.vercel.app/?username=dev-aditya-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
