@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-<p align="left"> <a href="https://twitter.com/pro_aditya96" target="blank"><img src="https://img.shields.io/twitter/follow/pro_aditya96?logo=twitter&style=for-the-badge" alt="pro_aditya96" /></a> </p>
+<p align="left"> <a href="https://x.com/dev_aditya_x" target="blank"><img src="https://img.shields.io/twitter/follow/dev_aditya_x?logo=twitter&style=for-the-badge" alt="pro_aditya96" /></a> </p>
 
 - 🌱 I’m currently learning **Backend, nodejs, etc**
 
@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://codepen.io/devadityalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devadityalab" height="30" width="40" /></a>
 <a href="https://dev.to/devadityalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devadityalab" height="30" width="40" /></a>
-<a href="https://twitter.com/pro_aditya96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pro_aditya96" height="30" width="40" /></a>
+<a href="https://x.com/dev_aditya_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pro_aditya96" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-gupta9608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta9608" height="30" width="40" /></a>
 <a href="https://instagram.com/_its._.aadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its._.aadi" height="30" width="40" /></a>
 <a href="https://www.behance.net/adityagupta261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adityagupta261" height="30" width="40" /></a>
