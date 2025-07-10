@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning **Backend, nodejs, etc**
 
+
 - 🔭 I’m currently learning **JAVA, Python, Fast API**
  <!--
 - 👨‍💻 All of my projects are [available at](https://bit.ly/aadi-portfolio)
