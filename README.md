@@ -67,13 +67,13 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aditya-lab&theme=tokyonight" alt="dev-aditya-lab" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-aditya-lab&show_icons=true&locale=en" alt="dev-aditya-lab" /></p> -->
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-aditya-lab&show_icons=true&locale=en" alt="dev-aditya-lab" /></p> 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aditya-lab&" alt="dev-aditya-lab" /></p>
-
+-->
 
 
 ![](https://github-profile-trophy.vercel.app/?username=dev-aditya-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
