@@ -19,6 +19,12 @@
 - 📫 Reach me at **ad1123itya@gmail.com**
 - ⚡ Fun fact: **I think I am funny**
 
+  <div align="center">
+  <a href="https://github.com/dev-aditya-lab">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=dev-aditya-lab&data=followers,repositories,stars,commits&theme=midnight" alt="GitHub WidgetBox"/>
+  </a>
+</div>
+
 ## ✨ Highlights
 - ✅ Building **full-stack web apps** with modern tooling
 - ✅ Designing **clean, responsive UIs** with accessibility in mind
@@ -28,6 +34,7 @@
 - **Backend architecture** (REST, auth, database modeling)
 - **Full-stack projects** (React + Node + DB)
 - **Developer productivity** (tooling, automation, and clean workflows)
+
 
 ---
 
@@ -83,18 +90,21 @@
 
 ---
 
-## 📊 GitHub Stats (Optional)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-aditya-lab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-aditya-lab&custom_title=Activity%20Graph&bg_color=141321&color=FE428E&line=F8D847&point=A9FEF7&area_color=FE428E&title_color=FE428E&area=true&hide_border=true&radius=16" width="100%"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aditya-lab&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=dev-aditya-lab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=dev-aditya-lab&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aditya-lab&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="42%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-aditya-lab&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
 
 ---
 
