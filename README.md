@@ -113,18 +113,11 @@
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn" width="100%"/>
+</div>
 
----
+<div align="center">
+  <sub>✨ Crafted with 💗 by <a href="https://github.com/dev-aditya-lab">Aditya Gupta</a> · © 2026 · India 🇮🇳</sub>
+</div>
 
-## 💰 Support My Work
-If you’d like to support me:
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itsaadi01)
-
-<p>
-  <a href="https://www.buymeacoffee.com/dev.aditya" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
