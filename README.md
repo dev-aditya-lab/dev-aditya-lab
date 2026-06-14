@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **Backend, Node.js, and modern API design**
-- 🔭 Exploring **Java, Python, and FastAPI**
+- 🔭 Exploring **Java, Python, FastAPI, and Docker**
 - 💬 Ask me about **React.js, JavaScript, and UI engineering**
 - 📫 Reach me at **hello@devaditya.dev**
 - ⚡ Fun fact: **i am not funny**
