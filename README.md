@@ -31,7 +31,7 @@
 - ✅ Shipping **performant front-ends** and maintainable back-ends
 
 ## 🧭 Current Focus
-- **Backend architecture** (REST, auth, database modeling)
+- **Backend architecture** (REST, auth, database modeling, containerization)
 - **Full-stack projects** (React + Node + DB)
 - **Developer productivity** (tooling, automation, and clean workflows)
 
