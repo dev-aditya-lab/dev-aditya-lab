@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://x.com/dev_aditya_x" target="_blank"><img src="https://img.shields.io/twitter/follow/dev_aditya_x?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-  <a href="mailto:ad1123itya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ad1123itya%40gmail.com-red?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:hello@devaditya.dev" target="_blank"><img src="https://img.shields.io/badge/Email-hello%40devaditya.dev-red?style=for-the-badge" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/its-aadi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://visitcount.itsvg.in/api?id=dev-aditya-lab&icon=6&color=0" target="_blank"><img src="https://img.shields.io/badge/Profile%20Views-Track-lightgrey?style=for-the-badge" alt="Profile Views" /></a>
 </p>
@@ -17,7 +17,7 @@
 - 🔭 Exploring **Java, Python, and FastAPI**
 - 💬 Ask me about **React.js, JavaScript, and UI engineering**
 - 📫 Reach me at **hello@devaditya.dev**
-- ⚡ Fun fact: **I think I am funny**
+- ⚡ Fun fact: **i am not funny**
 
   <div align="center">
   <a href="https://github.com/dev-aditya-lab">
