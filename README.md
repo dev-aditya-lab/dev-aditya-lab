@@ -16,7 +16,7 @@
 - 🌱 Currently learning **Backend, Node.js, and modern API design**
 - 🔭 Exploring **Java, Python, and FastAPI**
 - 💬 Ask me about **React.js, JavaScript, and UI engineering**
-- 📫 Reach me at **ad1123itya@gmail.com**
+- 📫 Reach me at **hello@devaditya.dev**
 - ⚡ Fun fact: **I think I am funny**
 
   <div align="center">
