@@ -79,6 +79,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
