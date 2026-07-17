@@ -35,6 +35,7 @@
 - **Backend architecture** (REST, auth, database modeling, containerization)
 - **Full-stack projects** (React + Node + DB)
 - **Developer productivity** (tooling, automation, and clean workflows)
+- **Cloud deployment** (Docker, CI/CD pipelines)
 
 
 ---
