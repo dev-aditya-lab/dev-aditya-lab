@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🚀 About Me
-- 🌱 Currently learning **Backend, Node.js, and modern API design**
+- 🌱 Currently learning **Backend, Node.js, and cloud-native deployment**
 - 🔭 Exploring **Java, Python, FastAPI, and Docker**
 - 💬 Ask me about **React.js, JavaScript, and UI engineering**
 - 📫 Reach me at **hello@devaditya.dev**
