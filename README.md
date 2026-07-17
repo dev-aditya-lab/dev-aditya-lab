@@ -29,6 +29,7 @@
 - ✅ Building **full-stack web apps** with modern tooling
 - ✅ Designing **clean, responsive UIs** with accessibility in mind
 - ✅ Shipping **performant front-ends** and maintainable back-ends
+- ✅ Containerizing apps with **Docker** for consistent deployments
 
 ## 🧭 Current Focus
 - **Backend architecture** (REST, auth, database modeling, containerization)
