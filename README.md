@@ -90,6 +90,7 @@
 - ⚙️ **Full-stack Product Dashboard** (React + Node + DB)
 - 🎨 **Portfolio Revamp** with performance and accessibility focus
 - 🔐 **Auth Starter Kit** for rapid MVP launches
+- 🐳 **Dockerized Dev Environment** for consistent local setups
 
 ---
 
